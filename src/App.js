@@ -77,10 +77,10 @@ function App() {
         <section className="work section" id="work">
           <h2 className="section-title">Work</h2>
           <div className="work__container bd-grid">
-            <a href="https://1drv.ms/f/c/989332ad6eeeb898/EjkCka6vqrdPqB2qz95FY_4BdMbEeVukJKTzUWVsOn3lEQ?e=IufiYE" className="work__img">
+            <a href="https://github.com/MadikaMishra/amazon-clone" className="work__img">
                   <img src="/work1.png" alt=""/>
             </a>
-            <a href="https://1drv.ms/f/c/989332ad6eeeb898/Eupvq1PQ6IROtr3ijPdbdnABMOYNDMn4inh-WXl24T4Zpw?e=mEWAhk" className="work__img">
+            <a href="https://github.com/MadikaMishra/game-using-html-and-css" className="work__img">
                         <img src="/work2.png" alt=""/>
                     </a>
                     <a href="https://github.com/MadikaMishra/Interactive-Resume.git" className="work__img">
